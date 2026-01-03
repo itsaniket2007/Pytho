@@ -1,9 +1,11 @@
-Python Assignment #
+Python Assignment
 
 This repository contains the Python scripts for my Task 1 and Task 2 assignments.
 
-## Task 1: Math Operations (`task1.py`)
-In this script, I ask the user to type in two numbers. Then, the program calculates the addition, subtraction, multiplication, and division for those numbers and prints the results on the screen using f-strings.
+Task 1: Even or Odd Number (task1.py)
 
-## Task 2: Personalized Greeting (`task2.py`)
-This program asks the user for their first name and last name separately. I combined these two inputs to make a "full name" variable. Finally, the program prints a customized welcome message using that full name.
+In this script, the program asks the user to enter a number. It then checks whether the given number is even or odd using the modulus (%) operator and displays the result using an if-else condition.
+
+Task 2: Sum of Numbers from 1 to 50 (task2.py)
+
+This script calculates the sum of all integers from 1 to 50 using a for loop. The program adds each number to a total variable and finally prints the total sum on the screen.
