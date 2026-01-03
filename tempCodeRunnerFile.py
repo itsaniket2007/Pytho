@@ -1,1 +1,0 @@
-    print({num1} ,"the give number is odd ")
